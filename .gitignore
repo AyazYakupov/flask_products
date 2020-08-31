@@ -1,6 +1,6 @@
 .idea/
 .pytest_cache/
-__pychache__/
+__pycache__/
 static/
 venv/
 test.db
